@@ -1,0 +1,3 @@
+Data/Hora,Ativo,Compra ($),Venda ($),Resultado (%),Motivo Saída,Modo,Estratégia,Setup,Premium,ATR Entrada,RVOL,OBV Slope,Close Strength,Volume Accel,ADX Delta,Upper Wick,Lower Wick
+2026-04-15 22:22:51,STO/USDT,0.1202,0.1184,-1.4975,SAÍDA BINANCE,REAL,Repique Seguro,EXECUTÁVEL,10,0.00053112,1.0324,42323.3,0.8,1.3311,-0.2961,0.2,0.2
+2026-04-16 12:07:26,XRP/USDT,1.407,1.4161,0.6468,SAÍDA BINANCE,REAL,Repique Seguro,ARMADO,9,0.00623645,3.3309,2226715.5,0.7767,1.4936,-0.8801,0.2233,0.2039
